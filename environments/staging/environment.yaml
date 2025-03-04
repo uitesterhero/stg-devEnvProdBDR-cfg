@@ -1,6 +1,6 @@
 version: 1.0
 app:
-  # build id to deploy testing
+  # build id to deploy testing f
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
   instances:
